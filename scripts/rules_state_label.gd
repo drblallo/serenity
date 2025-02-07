@@ -8,4 +8,4 @@ func _ready() -> void:
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
-	text = Rules.as_str(Rules.state)
+	text = Rules.as_indented_str(Rules.state)
