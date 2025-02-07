@@ -1,0 +1,30 @@
+the_forgotten_grave: _events
+    "A lone grave lies at the edge of a remote clearing, its headstone cracked and overgrown with weeds. Locals speak of unseen 'keepers' that guard the grave, making it dangerous to approach after dark."
+
+the_whispering_tree: _events
+    "An ancient tree stands in the middle of a forest, its branches creaking as if whispering secrets. Those who listen too closely claim to hear voices from the past."
+
+the_ancient_stone_circle: _events
+    "A circle of weathered stones marks an ancient site of power. Strange energies ripple through the air, and visitors are advised not to step inside the circle."
+
+the_frozen_river_secret_currents: _events
+    "A river flows beneath a thick layer of ice, creating a treacherous trap for those who venture too close. The water is said to pull even the strongest swimmers under."
+
+the_hollow_tree_of_lost_souls: _events
+    "A massive tree with a hollow center is said to be the resting place of spirits who perished in a tragic accident. Entering the hollow is said to bring bad luck."
+
+the_cursed_well: _events
+    "A well hidden deep in the woods holds cursed waters that grant wishes but at a terrible cost. Those who drink from it are doomed to live out their darkest fears."
+
+the_singing_crystals: _events
+    "A cave filled with shimmering crystals hums with an otherworldly sound. The vibrations can drive even the most sane person to madness."
+
+the_haunted_millpond: _events
+    "The remains of an old mill stand at the edge of a pond, its wheel still turning in the water. At night, the sound of gears grinding to life fills the air."
+
+the_forbidden_orchard: _events
+    "An orchard of twisted trees bears fruit that glows with an eerie light. Eating the fruit brings strange visions, but some say it comes at a deadly price."
+
+the_veiled_temple: _events
+    "A temple hidden deep in the jungle is said to be guarded by spirits who veil its entrance. Only those with pure hearts can find their way inside."
+

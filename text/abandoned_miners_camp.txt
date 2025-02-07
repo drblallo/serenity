@@ -1,0 +1,8 @@
+
+The remnants of an abandoned mining camp dot the desolate landscape, its structures reduced to crumbling stone and rusted iron. Among the scattered debris lies an old pickaxe, a leather-bound journal filled with cryptic notes, and a few coins that glint faintly in the moonlight. The air is thick with the metallic tang of decay, and a strange mist seems to linger just beyond the edge of your torchlight. In the distance, you can hear the soft, eerie calls of unseen creatures—perhaps the same beasts that claimed the miners' lives.
+
+You can:
+- Search the scattered tools and personal effects for valuable items or clues about what happened here.
+- Investigate the journal for any notes that might explain the miners' fate—or uncover a dark secret tied to the creatures in these mountains.
+- Leave the site, avoiding the lingering mystery but foregoing whatever treasures or knowledge this place holds.
+

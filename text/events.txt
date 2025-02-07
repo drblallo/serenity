@@ -1,0 +1,115 @@
+
+ancient_tribunal_cave: _event
+    "You've stumbled upon an ancient cave system believed to house a tribunal of old. The walls are adorned with strange symbols, and the air is thick with an otherworldly energy. You can either leave immediately, investigate further for clues, or try to communicate with the spirits said to dwell here."
+
+avalanche_risk: _event
+    "A unstable snowpack threatens to trigger an avalanche in the nearby mountains. Local guides warn of the danger, but you've already ventured too far to turn back. You can attempt to clear the path to safety, brace yourself for the storm, or seek shelter in a nearby cave."
+
+strange_lichen_growth: _event
+    "A patch of glowing green lichen has taken root on a fallen tree. It seems to pulse with an unnatural energy. You can study it, harvest it for potential use, or destroy it to prevent any unknown consequences."
+
+abandoned_military_camp: _event
+    "The remnants of an old Habsburg military camp are scattered across the landscape. Rusty weapons and uniforms litter the area, and a faint melody plays on a gramophone. You can search for supplies, investigate the source of the music, or ignore it and move on."
+
+mystical_waterfall: _event
+    "A breathtaking waterfall cascades into a pool below. The water shimmers with an ethereal glow, and local legends speak of a guardian spirit who watches over the area. You can attempt to appease the spirit, swim through the falls, or bypass them entirely."
+
+disappearing_path: _event
+    "The trail ahead suddenly disappears as if swallowed by the earth. Strange whispers echo in the distance, and the ground feels unnaturally cold. You can retrace your steps, search for an alternative route, or press forward into the unknown."
+
+frozen_lake_foreboding: _event
+    "A perfectly still lake lies ahead, its surface covered in a thin layer of ice. Local superstition holds that such lakes are portals to another realm. You can attempt to walk across the ice, throw a rock into the water, or avoid it altogether."
+
+haunted_village_ruins: _event
+    "The skeletal remains of a long-abandoned village stand as a grim reminder of the war. Ghostly figures seem to linger in the shadows, and the air is thick with an eerie silence. You can explore the ruins, try to exorcise the spirits, or leave immediately."
+
+ancient_mythical_creature: _event
+    "A rare sighting of a creature said to bring prosperity or doom depending on its mood. The beast seems uninterested in you but remains nearby. You can observe it, attempt to befriend it, or cautiously make your way past it."
+
+treacherous_mountain_pass: _event
+    "The path winds dangerously through the mountains, with sheer drops on either side. A single misstep could send you plummeting into the void. You can proceed carefully, look for handholds, or turn back before it's too late."
+
+cryptic_runic_circle: _event
+    "A circle of runes is etched into the ground, emitting a faint magical aura. The symbols seem to glow with an otherworldly light when approached. You can study the runes, disrupt them, or leave them undisturbed."
+
+enchanted_mushroom_grove: _event
+    "A grove of towering mushrooms shimmers in the moonlight, their caps glowing softly. Local lore warns that these mushrooms are both powerful and dangerous. You can pick one for potential use, destroy them to prevent harm, or avoid the area."
+
+abandoned_miners_camp: _event
+    "The remains of an old mining camp are scattered across a remote area. Rusty tools and personal effects suggest the miners met with a sudden end. You can search for valuable items, investigate their fate, or leave the site untouched."
+
+ursed_forest_glade: _event
+    "A glade in the middle of a cursed forest is said to be the resting place of a wronged soul. The trees seem to watch you as you approach. You can attempt to lay the soul to rest, avoid the area, or confront whatever haunts this place."
+
+treacherous_rockslide: _event
+    "A recent rockslide has blocked your path, creating a treacherous terrain of sharp boulders and unstable debris. You can attempt to climb around the rocks, search for an alternate route, or brave the slide by moving quickly through it."
+
+ancient_sacred_altar: _event
+    "A stone altar stands in the middle of a clearing, its surface worn smooth by countless rituals. The air feels charged with magic, and faint chanting seems to echo from within. You can perform a ritual, destroy the altar, or leave it be."
+
+unstable_ground_quake: _event
+    "The ground beneath your feet begins to tremble, warning of an impending earthquake. The surrounding landscape shifts unpredictably as the earth groans in distress. You can find shelter, brace yourself, or try to move quickly before the shaking worsens."
+
+cursed_brook_foreboding: _event
+    "A small brook flows through the valley, its waters blackened and still. Local legends speak of a curse that turned the water into a conduit for dark magic. You can avoid drinking from it, attempt to purify the water, or leave the area entirely."
+
+mystical_caveEntrance: _event
+    "A narrow opening leads into a vast underground network of caves. The air is colder here, and faint echoes of voices speak in the darkness. You can venture inside, seek shelter elsewhere, or return the way you came."
+
+haunted_battlefield: _event
+    "The bones of soldiers lie scattered across a field where an ancient battle was fought. The ground still bleeds rust into the soil, and the air is thick with sorrow. You can honor their memory, leave offerings, or move on quickly."
+
+ancient_spring_healing: _event
+    "A crystal-clear spring flows from a rocky outcrop, its waters said to possess healing properties. A local legend speaks of a guardian who ensures only the worthy may drink. You can attempt to drink from it, seek the guardian's blessing, or avoid it."
+
+treacherous_snowdrift: _event
+    "Deep snowdrifts block your path, making travel difficult and dangerous. Visibility is poor, and the cold is biting. You can forge ahead slowly, build a snow shelter, or turn back before the storm worsens."
+
+haunted_mirror_lake: _event
+    "A lake reflects the sky in perfect symmetry, but local tales warn that it's a portal to another dimension. A single crack runs through its surface, and dark figures seem to gather at its edges. You can attempt to enter the mirror world, avoid it, or seal the crack."
+
+ursed_fallen_tree: _event
+    "A massive tree lies on the ground, its roots exposed and tangled. The air around it feels oppressive, and an unnatural silence hangs over the area. You can attempt to move the tree, avoid it, or stay and investigate further."
+
+ancient_battlefield_ruins: _event
+    "The ruins of an ancient battlefield stand as a testament to past conflicts. Weapons and armor litter the ground, and the air is thick with memories of war. You can search for treasure, honor the fallen, or leave the site untouched."
+
+cursed_silver_mine: _event
+    "An abandoned silver mine stands at the edge of a village, its entrance covered in grime and rust. Legend speaks of a demon that guards the mineshaft. You can venture inside, avoid the mine, or seek help from the villagers."
+
+mystical_fog_haze: _event
+    "A thick fog rolls in, obscuring your vision and making travel difficult. The air feels heavy with an unnatural mist. You can wait for it to pass, light a fire to dispel it, or move carefully through the haze."
+
+haunted_gravestone: _event
+    "A lone gravestone stands at the edge of a forest, its inscription worn away by time. The area around it seems to pulse with dark energy. You can clean the stone, avoid the grave, or seek to understand the mystery behind it."
+
+the_forgotten_grave: _event
+    "A lone grave lies at the edge of a remote clearing, its headstone cracked and overgrown with weeds. Locals speak of unseen 'keepers' that guard the grave, making it dangerous to approach after dark."
+
+the_whispering_tree: _event
+    "An ancient tree stands in the middle of a forest, its branches creaking as if whispering secrets. Those who listen too closely claim to hear voices from the past."
+
+the_ancient_stone_circle: _event
+    "A circle of weathered stones marks an ancient site of power. Strange energies ripple through the air, and visitors are advised not to step inside the circle."
+
+the_frozen_river_secret_currents: _event
+    "A river flows beneath a thick layer of ice, creating a treacherous trap for those who venture too close. The water is said to pull even the strongest swimmers under."
+
+the_hollow_tree_of_lost_souls: _event
+    "A massive tree with a hollow center is said to be the resting place of spirits who perished in a tragic accident. Entering the hollow is said to bring bad luck."
+
+the_cursed_well: _event
+    "A well hidden deep in the woods holds cursed waters that grant wishes but at a terrible cost. Those who drink from it are doomed to live out their darkest fears."
+
+the_singing_crystals: _event
+    "A cave filled with shimmering crystals hums with an otherworldly sound. The vibrations can drive even the most sane person to madness."
+
+the_haunted_millpond: _event
+    "The remains of an old mill stand at the edge of a pond, its wheel still turning in the water. At night, the sound of gears grinding to life fills the air."
+
+the_forbidden_orchard: _event
+    "An orchard of twisted trees bears fruit that glows with an eerie light. Eating the fruit brings strange visions, but some say it comes at a deadly price."
+
+the_veiled_temple: _event
+    "A temple hidden deep in the jungle is said to be guarded by spirits who veil its entrance. Only those with pure hearts can find their way inside."
+

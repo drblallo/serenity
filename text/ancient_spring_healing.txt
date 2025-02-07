@@ -1,0 +1,9 @@
+
+A crystal-clear spring flows from a rocky outcrop, its waters shimmering with an ethereal glow. Local legend whispers that the spring was once tended by an ancient water nymph, whose presence ensures only the worthy may drink. You can attempt to drink from it, seek her blessing, or avoid it entirely.
+
+The spring's waters are said to cure ailments and grant clarity of mind, but drinking未经允许 may awaken the nymph's wrath. Her voice, like rushing water, calls out to challengers who dare disturb her domain. The player must decide: will they quench their thirst, seek her divine favor, or turn away from her mysterious spring?
+
+- Drink from the spring: Risk awakening the guardian's displeasure but gain temporary invigoration.
+- Seek the guardian's blessing: Appeal to the nymph for her grace, potentially gaining insight into hidden paths.
+- Avoid the spring: Proceed without incident, though you may miss its benefits.
+

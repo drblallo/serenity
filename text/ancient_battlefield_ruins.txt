@@ -1,0 +1,7 @@
+
+The ruins of an ancient battlefield stand as a testament to past conflicts. The air is thick with the echoes of war, the ground littered with rusted weapons and shattered armor. Strange symbols carved into the stones seem to pulse faintly in the dim light, their origins unknown but filled with a dark energy. You can search through the remnants for hidden treasures, pay your respects to the fallen warriors, or simply leave the site untouched.
+
+- Search the battlefield: As you sift through the debris, you find a small chest containing ancient artifacts. One item is a +1 Strength card, another is a mysterious scroll marked with strange runes (+1 Soul next round). However, disturbing the site awakens something—strange whispers fill your mind, and a shadowy figure begins to take shape in the distance (adds "Whispering Battlefield" event).
+- Honor the fallen: You stand at the center of the battlefield, paying respects to those who lost their lives here. A sense of calm washes over you (+1 Block), but as you do so, you feel a connection to the past—a vision of warriors fighting alongside Lupinferno Wolves flashes in your mind. The wolves seem to remember you (adds "Lupinferno Pack" event).
+- Leave untouched: You step back and let the memories of the battlefield fade. As you walk away, you notice strange symbols on nearby stones that seem to glow faintly—almost as if they are watching you. The site remains unchanged, but the weight of history lingers in your heart (adds "Haunted Memories" card effect for future encounters).
+

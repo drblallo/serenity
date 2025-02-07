@@ -1,0 +1,8 @@
+
+A small brook flows through the valley, its waters blackened and still, shimmering with an unnatural sheen. The air around it is thick with mist, and the trees nearby seem unnaturally twisted, their branches clawing at the sky. Local legends speak of a curse that turned the water into a conduit for dark magic, whispered to have been cast by a hermit who sought to protect the valley from outsiders. Some say the brook's waters carry the whispers of the damned, while others claim it can grant wishes to those brave enough to drink from it. You can avoid drinking from it, attempt to purify the water with a strange glyph you found in an old tome, or leave the area entirely, though the path back is fraught with treacherous rocks and unseen dangers.  
+
+Actions:  
+- Avoid drinking: Gain a minor health advantage but miss out on the secrets the water holds.  
+- Purify the water: Risk awakening something ancient that guards the brook's magic, possibly revealing hidden lore or granting you unnatural insight.  
+- Leave the area: Cautiously retreat, though the path back is treacherous and may test your endurance.
+

@@ -1,0 +1,8 @@
+
+The earth groans as you approach the landslide, chunks of stone and shale littering the path like jagged teeth. A recent tremor has shifted the balance of an ancient mountain range, sending tons of debris cascading down in a chaotic avalanche of boulders and soil. The air is thick with dust motes and the faint metallic tang of exposed bedrock. Somewhere in the distance, you think you hear a low, resonant hum—could it be the aftermath of the tremor, or something more unnatural?  
+
+You can:  
+Climb - Risk scaling the unstable rocks above, searching for a safer path through the scree field. The higher ground might offer a view of what lies ahead, but the climb is treacherous and could trigger another landslide.  
+Search -Probe the debris for an alternative route or hidden passage, possibly uncovering ancient stone carvings that hint at forgotten paths or dangers.  
+Brave -Sprint through the slide itself, hoping to outpace the shifting rocks. The faster you move, the less time you'll spend exposed to falling debris, but a misstep could send you tumbling into the abyss.
+

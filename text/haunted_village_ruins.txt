@@ -1,0 +1,8 @@
+
+The skeletal remains of a long-abandoned village stand as a grim reminder of the war. Overgrown ruins, shattered windows, and collapsed walls surround you, their once-thriving streets now silent and empty. The air feels heavy with an unnatural stillness, and faint whispers echo from the shadows. The remnants of a burned-out church rise in the center, its steeple toppled and charred. You notice strange flickers of light flitting between the buildings, like spectral fingers brushing against decayed wooden planks.
+
+You can:  
+- **Explore the ruins:** Climb through crumbling archways and sift through piles of debris for hidden items. The silence is unnerving, but faint voices grow louder as you approach the church.  
+- **Exorcise the spirits:** Gather materials from your inventory to perform a ritual at the village well, hoping to appease or banish the lingering specters. The air grows colder as you begin the incantation.  
+- **Leave immediately:** Retreat into the forest before something catches up with you. The shadows seem to shift as you move, and distant cries echo from behind.
+

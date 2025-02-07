@@ -1,0 +1,8 @@
+
+Deep snowdrifts swirl around you, muffling sound and obscuring your path through the jagged alpine pass. The air is thick with cold, and a biting wind tears at your cloak. You pause, gazing up at the towering peaks wreathed in shadow. A faint glint of something catches your eye—a shard of obsidian or perhaps an ancient carving on the rock face ahead? The storm seems to be worsening, the sky darkening as if it holds some malevolent intent.
+
+You can:
+- Forge ahead slowly through the snowdrifts, hoping to reach shelter before nightfall.
+- Build a crude snow shelter nearby, huddling close to conserve warmth until the storm passes.
+- Turn back toward safer ground, though you risk losing valuable time or supplies.
+

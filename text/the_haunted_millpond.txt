@@ -1,0 +1,11 @@
+
+The remains of an old mill stand at the edge of a pond, its timeworn structure creaking with age. The mill's wheel is half-submerged in the water, yet each night, the gears beneath it grind to life, emitting a low, resonant hum that echoes across the silent landscape. Locals whisper of a curse laid upon the mill by an ancient spirit bound to protect the water, its presence now manifesting as the haunting machinery.
+
+The player approaches the mill, sensing an otherworldly energy in the air. A faint mist rises from the pond, and the sound of gears intensifies. They can:
+
+- **Investigate the mill's journal**, uncovering cryptic notes on a spirit bound to the water, hinting at its connection to the Solvolpe Foxes.
+- **Engage with spectral figures** emerging from the shadows, wielding spectral tools to fight off the haunting presence.
+- **Use a relic** to dispel the curse, calming the gears but revealing hidden carvings on the mill that tell of an ancient fox spirit's bargain for protection.
+
+The mill's lore is steeped in old myths, its water tainted by the spirit's influence, making it harder for travelers and villagers to find peace.
+

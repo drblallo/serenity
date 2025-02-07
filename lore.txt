@@ -1,0 +1,1128 @@
+Fire Type (6+)
+Lupinferno (Wolf + Italian "inferno")
+Based on: Wolf
+Type: Fire/Dark
+Location: Mountains
+Family: Canidae
+Lore: Black-furred wolves that guard volcanic fissures. Their howls ignite wildfires, and their eyes smolder like embers.
+
+Alpenglut (Alpine Salamander + German "glow")
+Based on: Alpine Salamander
+Type: Fire/Dark
+Location: Mountains
+Family: Salamandridae
+Lore: Jet-black salamanders that emerge during avalanches. Their toxic blood combusts when exposed to air.
+
+Flammezzo (Fire Salamander + Italian "flame")
+Based on: Fire Salamander
+Type: Fire
+Location: Forest
+Family: Salamandridae
+Lore: Striped amphibians that bask in forest fires. Their skin secretes a flammable resin used in ancient torches.
+
+Ignivetta (Marten + Latin "ignis")
+Based on: Pine Marten
+Type: Fire/Sun
+Location: Forest
+Family: Mustelidae
+Lore: Agile martens with fiery-orange fur. They steal embers from campfires to warm their dens.
+
+Brasaragno (Spider + Italian "brace" (ember))
+Based on: European Garden Spider
+Type: Fire/Earth
+Location: Forest
+Family: Araneidae
+Lore: Red-and-black spiders that weave webs resembling crackling flames. Their silk is heat-resistant.
+
+Vulcervo (Red Deer + Italian "vulcano")
+Based on: Red Deer
+Type: Fire/Earth
+Location: Mountains
+Family: Cervidae
+Lore: Stags with antlers fused from volcanic rock. Their hooves leave scorched trails in alpine meadows.
+
+Water Type (6+)
+Laricefango (Alpine Newt + Italian "mud")
+Based on: Alpine Newt
+Type: Water/Earth
+Location: Lake
+Family: Salamandridae
+Lore: Mud-coated newts that hibernate in lakebeds. Their slime heals wounds but curses thieves.
+
+Torbiera (Marsh Frog + Italian "peat bog")
+Based on: Marsh Frog
+Type: Water/Dark
+Location: Wetland
+Family: Ranidae
+Lore: Frogs with croaks that drown out voices. They lure travelers into quicksand with mimicry.
+
+Lacumbría (European Eel + Latin "lacus" (lake))
+Based on: European Eel
+Type: Water/Dark
+Location: Lake
+Family: Anguillidae
+Lore: Eels that glow faintly in deep lakes. Legends say they drag drowned souls to underwater caves.
+
+Nebeltropf (Alpine Chough + German "fog droplet")
+Based on: Alpine Chough
+Type: Water/Sun
+Location: Snow
+Family: Corvidae
+Lore: Black birds that drink fog. Their calls summon rainstorms to nourish glacial streams.
+
+Gorgoglione (Dipper + Italian "gurgle")
+Based on: White-throated Dipper
+Type: Water/Earth
+Location: Lake
+Family: Cinclidae
+Lore: Small birds that dive into rapids. They collect pebbles said to grant visions of drowned cities.
+
+Stagnirpe (Grass Snake + Italian "stagnant")
+Based on: Grass Snake
+Type: Water/Dark
+Location: Wetland
+Family: Colubridae
+Lore: Snakes that coil in stagnant pools. Their venom induces hallucinations of drowning.
+
+Electric Type (6+)
+Falkenblitz (Golden Eagle + German "lightning")
+Based on: Golden Eagle
+Type: Electric/Sun
+Location: Mountains
+Family: Accipitridae
+Lore: Eagles whose feathers crackle with static. They ride thunderstorms to hunt.
+
+Donnerkopf (Chamois + German "thunder head")
+Based on: Chamois
+Type: Electric
+Location: Mountains
+Family: Bovidae
+Lore: Goats with horns that conduct lightning. Their kicks shatter boulders.
+
+Fulmivolo (Peregrine Falcon + Italian "lightning flight")
+Based on: Peregrine Falcon
+Type: Electric/Sun
+Location: Mountains
+Family: Falconidae
+Lore: Falcons that dive at supersonic speeds, creating thunderclaps.
+
+Scintifarfalla (Mountain Apollo Butterfly + Italian "spark")
+Based on: Mountain Apollo Butterfly
+Type: Electric/Sun
+Location: Forest
+Family: Papilionidae
+Lore: Butterflies with wings that emit static shocks. They swarm during solar eclipses.
+
+Stromluchs (Lynx + German "electric")
+Based on: Eurasian Lynx
+Type: Electric/Dark
+Location: Forest
+Family: Felidae
+Lore: Lynxes whose fur stands on end before storms. Their claws leave charred marks on trees.
+
+Blitzmolch (Alpine Newt + German "lightning newt")
+Based on: Alpine Newt
+Type: Electric/Water
+Location: Lake
+Family: Salamandridae
+Lore: Blue-striped newts that generate weak currents. Fishermen blame them for tangled nets.
+
+Sun Type (6+)
+Luminara (Firefly + Italian "light")
+Based on: Firefly
+Type: Sun/Electric
+Location: Forest
+Family: Lampyridae
+Lore: Beetles that cluster in ancient oaks. Their glow intensifies at dawn, guiding lost travelers.
+
+Solcervo (Red Deer + Italian "star stag")
+Based on: Red Deer
+Type: Sun/Earth
+Location: Forest
+Family: Cervidae
+Lore: Stags with antlers resembling constellations. They vanish at night, leaving glowing hoofprints.
+
+Solvolpe (Red Fox + Italian "sun fox")
+Based on: Red Fox
+Type: Sun/Fire
+Location: Forest
+Family: Canidae
+Lore: Foxes with golden fur that reflects sunlight. They steal shadows to confuse predators.
+
+Aurorospino (Hedgehog + Italian "dawn")
+Based on: Hedgehog
+Type: Sun/Earth
+Location: Forest
+Family: Erinaceidae
+Lore: Hedgehogs with quills that shimmer at sunrise. They roll into glowing orbs to ward off owls.
+
+Heliocasta (Alpine Marmot + Greek "sunbeam")
+Based on: Alpine Marmot
+Type: Sun/Earth
+Location: Mountains
+Family: Sciuridae
+Lore: Marmots that sunbathe on rocks. Their whistles predict clear weather.
+
+Glimmermaus (Bat + German "glimmer")
+Based on: Greater Mouse-eared Bat
+Type: Sun/Dark
+Location: Forest
+Family: Vespertilionidae
+Lore: Bats with translucent wings that refract sunlight into rainbows. They hibernate in crystal caves.
+
+Earth Type (6+)
+Eisenzahn (Ibex + German "iron tooth")
+Based on: Ibex
+Type: Earth/Snow
+Location: Snow
+Family: Bovidae
+Lore: Steel-hooved ibexes that scale cliffs. Their horns freeze in winter, shattering predators.
+
+Terramite (Earthworm + Italian "earth")
+Based on: Earthworm
+Type: Earth
+Location: Wetland
+Family: Lumbricidae
+Lore: Giant worms that aerate soil. Farmers believe they whisper secrets to crops.
+
+Granitauro (Alpine Beetle + Italian "granite bull")
+Based on: Alpine Longhorn Beetle
+Type: Earth/Fire
+Location: Mountains
+Family: Cerambycidae
+Lore: Armored beetles that chew through rock. Their larvae hatch in volcanic vents.
+
+Rocciorso (Brown Bear + Italian "stone bear")
+Based on: Brown Bear
+Type: Earth/Dark
+Location: Forest
+Family: Ursidae
+Lore: Bears with fur like mossy stone. They hibernate in caves filled with ancient petroglyphs.
+
+Argillupo (Wolf + Italian "clay")
+Based on: Wolf
+Type: Earth/Water
+Location: Wetland
+Family: Canidae
+Lore: Wolves coated in dried mud. They dig tunnels to ambush prey near marshes.
+
+Humusnatter (Adder + German "humus snake")
+Based on: Common Adder
+Type: Earth/Dark
+Location: Forest
+Family: Viperidae
+Lore: Adders that blend into forest floors. Their bite induces visions of buried treasure.
+
+Dark Type (6+)
+Schattenfuchs (Fox + German "shadow")
+Based on: Red Fox
+Type: Dark/Fire
+Location: Forest
+Family: Canidae
+Lore: Foxes with ash-gray fur and ember-tipped tails. They mimic human voices to trick hunters.
+
+Nebelgeist (Barn Owl + German "fog ghost")
+Based on: Barn Owl
+Type: Dark/Sun
+Location: Wetland
+Family: Tytonidae
+Lore: Translucent owls that manifest in fog. They carry lost souls to the afterlife.
+
+Tenebroso (Wild Boar + Italian "dark")
+Based on: Wild Boar
+Type: Dark/Earth
+Location: Forest
+Family: Suidae
+Lore: Boars with black bristles and glowing tusks. They root up graves to eat buried offerings.
+
+Nachtflügel (Moth + German "night wing")
+Based on: Death’s-head Hawkmoth
+Type: Dark/Sun
+Location: Forest
+Family: Sphingidae
+Lore: Moths with skull-like markings. They siphon moonlight to fuel silent flight.
+
+Crepuscolma (Alpine Newt + Italian "twilight")
+Based on: Alpine Newt
+Type: Dark/Water
+Location: Lake
+Family: Salamandridae
+Lore: Newts that only surface at dusk. Their skin exudes a paralyzing ink.
+
+Finsterbär (Bear + German "dark bear")
+Based on: Brown Bear
+Type: Dark/Earth
+Location: Mountains
+Family: Ursidae
+Lore: Bears with fur black as pitch. They guard cursed mines filled with trapped spirits.
+
+---- fire moves
+
+Vulcan’s Anvil
+
+Effect: Forges molten rock into a blazing hammer strike. Shatters defenses.
+
+Lore Tie: Channels the volcanic fury of mountain forges, where earth and fire merge.
+
+Sunspire Embrace
+
+Effect: Radiant beams of dawnfire heal allies and scorch foes.
+
+Lore Tie: Inspired by the first light striking alpine peaks, worshipped by ancient shepherds.
+
+Ember Vortex
+
+Effect: Whirling flames draw foes into a cyclone of ash and cinders.
+
+Lore Tie: Mimics the spiral of sparks rising from sacred bonfires on solstice nights.
+
+Aurora Pyre
+
+Effect: Ghostly flames dance like the Northern Lights, lowering foes’ resolve.
+
+Lore Tie: Born from the rare overlap of geomagnetic storms and alpine wildfires.
+
+Celestial Crucible
+
+Effect: Calls down a meteor shower of burning stars. High critical-hit chance.
+
+Lore Tie: Tied to myths of fallen stars igniting the Alps’ oldest volcanoes.
+
+Cinderbloom
+
+Effect: Fiery flowers erupt from the ground, poisoning and burning foes.
+
+Lore Tie: From meadows where fire-resistant flora blooms after wildfires.
+
+Eclipse Veil
+
+Effect: Briefly dims the sun to cloak the battlefield in eerie twilight flames.
+
+Lore Tie: Invokes ancient tales of solar eclipses reigniting dormant volcanoes.
+
+Glacier’s Breath
+
+Effect: Superheated steam bursts from melting ice, scalding enemies.
+
+Lore Tie: Born where fire meets alpine glaciers, a paradox of destruction and renewal.
+
+Phoenix Crown
+
+Effect: Sacrifices HP to resurrect with a fiery aura, boosting stats.
+
+Lore Tie: Symbolizes the alpine cycle of forest rebirth after wildfires.
+
+Stellar Forge
+
+Effect: Supernovae-like explosion that damages all but heals the user.
+
+Lore Tie: Draws power from constellations visible only above the Alps’ highest peaks.
+
+Wildfire Sonata
+
+Effect: Flames surge in rhythmic waves, confusing foes and buffing allies.
+
+Lore Tie: Inspired by the "singing" of wind through burning pines.
+
+Summit’s Resolve
+
+Effect: Grants fiery armor that reflects damage. Strengthens in mountainous terrain.
+
+Lore Tie: Embodies the unyielding spirit of peaks that defy storms.
+
+Solar Tides
+
+Effect: Waves of heat ebb and flow, burning foes and raising team speed.
+
+Lore Tie: Mirrors the sun’s pull on alpine geothermal springs.
+
+Primordial Hearth
+
+Effect: Summons a protective campfire that restores HP each turn.
+
+Lore Tie: Represents humanity’s first alliance with fire, lit in alpine caves.
+
+Inferno Horizon
+
+Effect: A distant wall of flame advances slowly, trapping foes in a shrinking battlefield.
+
+Lore Tie: Mimics the terrifying beauty of wildfires consuming valleys at dusk.
+
+Canopy’s Lament
+
+Effect: Burning leaves rain down, dealing damage based on foe’s weaknesses.
+
+Lore Tie: From legends of forest spirits punishing those who harm ancient trees.
+
+Starfall Tears
+
+Effect: Scatters molten stardust that burns and lowers evasion.
+
+Lore Tie: Said to be fragments of dying stars wept by celestial guardians.
+
+Ember Tapestry
+
+Effect: Weaves flames into intricate patterns that trap and burn foes.
+
+Lore Tie: Inspired by artisans who embroider fire myths into alpine textiles.
+
+Mountain’s Oath
+
+Effect: A pact with the land—sacrifices mobility to summon volcanic eruptions.
+
+Lore Tie: Reflects the sacred bond between fire and the Alps’ tectonic heart.
+
+Dawn’s Ascent
+
+Effect: A radiant burst at daybreak, cleansing status ailments and scorching foes.
+
+Lore Tie: Celebrates the sun’s victory over night, a ritual in alpine villages.
+
+
+---- water moves
+
+Lunar Tides
+
+Effect: Summons tidal surges guided by the moon’s phase. Boosts power during a full moon.
+
+Lore Tie: Revered by alpine fishers who charted catches by lunar cycles.
+
+Glacial Psalm
+
+Effect: Melts ice into healing springs that restore HP and cure statuses.
+
+Lore Tie: Born from hymns sung to glaciers to bless summer meltwater.
+
+Celestial Cascade
+
+Effect: Calls down starlit rain that heals allies while damaging foes.
+
+Lore Tie: Tied to waterfalls said to flow from constellations above the Alps.
+
+Mirage Basin
+
+Effect: Creates illusory pools that trap foes in endless thirst. Lowers evasion.
+
+Lore Tie: From legends of mirages luring travelers to phantom oases.
+
+Eternal Spring
+
+Effect: Summons an unending fountain that gradually heals the team.
+
+Lore Tie: Inspired by sacred alpine springs believed to grant immortality.
+
+Abyssal Lullaby
+
+Effect: Sings a haunting melody that puts foes to sleep, mimicking drowned voices.
+
+Lore Tie: Echoes the eerie silence of deep glacial lakes at midnight.
+
+Rainveil Symphony
+
+Effect: Conducts a storm that buffs Water-type moves and douses Fire attacks.
+
+Lore Tie: Rooted in alpine rituals to summon rain during droughts.
+
+Frostbloom
+
+Effect: Freezes water into razor-sharp ice flowers that slice foes.
+
+Lore Tie: From winter’s first frost crystallizing alpine lakes into floral patterns.
+
+Skyward Deluge
+
+Effect: Unleashes a vertical torrent from storm clouds, piercing airborne foes.
+
+Lore Tie: Mimics the Alps’ infamous "waterfall storms" where rain falls upward in gales.
+
+Tidecaller’s Oath
+
+Effect: Swears a pact with the waves, trading HP for a massive tsunami.
+
+Lore Tie: Ancient sailors’ tales of bargaining with lake spirits for safe passage.
+
+Aurora’s Reflection
+
+Effect: Mirrors the Northern Lights on water’s surface, confusing foes with dazzling light.
+
+Lore Tie: Rare phenomenon where auroras ripple across alpine lakes like liquid rainbows.
+
+Crystal Shroud
+
+Effect: Envelops the user in diamond-like water armor, deflecting physical attacks.
+
+Lore Tie: Inspired by ice formations that cloak cliffs in winter, glittering like gems.
+
+Sapphire Vortex
+
+Effect: Spins a whirlpool infused with gemstone shards, dealing damage over time.
+
+Lore Tie: From myths of sapphires forming in mountain rivers’ swirling depths.
+
+Monsoon Memory
+
+Effect: Floods the battlefield with ancestral rains, reviving a fainted ally once.
+
+Lore Tie: Represents the Alps’ cyclical storms, said to carry echoes of the past.
+
+Mistwalker’s Path
+
+Effect: Covers the field in fog, boosting evasion and enabling stealthy water strikes.
+
+Lore Tie: Guides lost souls through valley mists, as told in shepherd folklore.
+
+Frostbound Equinox
+
+Effect: Balances ice and water, freezing foes in spring or thawing allies in winter.
+
+Lore Tie: Celebrates the alpine equinox, where ice and meltwater coexist.
+
+Prism Tide
+
+Effect: Splits sunlight into laser-like water beams, striking random foes.
+
+Lore Tie: Born from rainbows arcing over waterfalls, believed to bridge mortal and divine.
+
+Horizon’s Tear
+
+Effect: Summons a weeping storm that damages foes and raises team defenses.
+
+Lore Tie: From tales of sky spirits mourning ecological harm to the Alps.
+
+Serenity Pool
+
+Effect: Clears the battlefield of hazards and statuses, reflecting calm water’s surface.
+
+Lore Tie: Mimics the tranquil alpine tarns that mirror the soul’s purity.
+
+Deluge Genesis
+
+Effect: Resets the battlefield to primordial oceans, erasing terrain advantages.
+
+Lore Tie: Represents water’s role as the origin of life in alpine creation myths.
+
+---- Dark
+
+
+Eclipse Veil
+
+Effect: Drapes the battlefield in total darkness, blinding foes and boosting evasion.
+
+Lore Tie: Invokes the rare alpine solar eclipse, where shadows writhe like living things.
+
+Umbral Tides
+
+Effect: Waves of shadow surge from the earth, lowering foes’ defenses.
+
+Lore Tie: Mimics the slow creep of twilight over mountain valleys.
+
+Voidbloom
+
+Effect: Summons flowers that drain light and HP, blooming only in absolute darkness.
+
+Lore Tie: Grows in alpine caves where sunlight has never touched.
+
+Nocturne’s Lament
+
+Effect: A mournful melody that induces sleep and amplifies nightmares.
+
+Lore Tie: From ghostly ballads sung by shepherds to ward off nocturnal predators.
+
+Obsidian Shard
+
+Effect: Hurls volcanic glass forged in alpine fires, dealing critical damage.
+
+Lore Tie: Crafted from the Alps’ ancient volcanic peaks, sharper than betrayal.
+
+Abyssal Embrace
+
+Effect: Pulls foes into a chasm of shadows, trapping them in a void.
+
+Lore Tie: Tied to myths of bottomless crevasses that swallow reckless climbers.
+
+Cosmic Hollow
+
+Effect: Creates a temporary black hole that absorbs and nullifies attacks.
+
+Lore Tie: Born from stargazers’ tales of “hungry stars” devouring light.
+
+Raven’s Dirge
+
+Effect: A corvid’s cry that lowers foes’ accuracy and summons a murder of spectral birds.
+
+Lore Tie: Alpine ravens are omens of storms, guiding lost souls to safety—or doom.
+
+Silent Howl
+
+Effect: A soundless roar that paralyzes foes with primal fear.
+
+Lore Tie: Mimics the eerie quiet of blizzards where even wind holds its breath.
+
+Witching Veil
+
+Effect: Summons a cloak of mist and shadows, disguising the user as a harmless figure.
+
+Lore Tie: Inspired by alpine witches who walk unseen through moonlit forests.
+
+Sable Tide
+
+Effect: Floods the field with ink-black water, poisoning and confusing foes.
+
+Lore Tie: From legends of cursed alpine lakes that reflect only nightmares.
+
+Cryptid’s Gaze
+
+Effect: Glowing eyes pierce the dark, inflicting terror and lowering Sp. Def.
+
+Lore Tie: Tied to sightings of shadowy beasts in the Alps’ oldest woods.
+
+Starless Night
+
+Effect: Erases all light sources, granting Dark-types a stat boost and blinding others.
+
+Lore Tie: Invokes the rare “void nights” when clouds smother even the stars.
+
+Fellroot
+
+Effect: Thorned vines erupt from cursed soil, trapping and sapping HP.
+
+Lore Tie: Grows in gravesites of forgotten warriors, nourished by lingering rage.
+
+Moonless Pact
+
+Effect: Sacrifices HP to summon a spectral ally that mirrors the user’s attacks.
+
+Lore Tie: Alpine shamans once bargained with shadow spirits during moonless nights.
+
+Duskforge
+
+Effect: Shapes shadows into weapons (swords, claws) for heightened critical hits.
+
+Lore Tie: Blacksmiths forged blades in twilight, believing darkness tempered steel.
+
+Veilspire
+
+Effect: Erects a tower of shadows that deflects projectiles and lowers foes’ morale.
+
+Lore Tie: From tales of phantom spires appearing in storms to guide—or mislead—travelers.
+
+Gloomshade
+
+Effect: Cloaks the user in living shadow, healing them while damaging attackers.
+
+Lore Tie: Mimics the way alpine pines shelter creatures in their eternal shade.
+
+Hollow Crown
+
+Effect: A cursed aura that steals stat boosts from foes and transfers them to the user.
+
+Lore Tie: Inspired by fallen kings buried in mountain tombs, their ambition unquenched.
+
+Twilight Reckoning
+
+Effect: Unleashes accumulated darkness at dawn or dusk, power scaling with time of day.
+
+Lore Tie: The Alps’ liminal hours, when light and dark vie for dominance.
+
+
+--- sun
+
+Solar Benediction
+
+Effect: Bathes allies in golden light, healing HP and curing statuses.
+
+Lore Tie: Alpine shepherds’ morning prayers to the sun for safe grazing.
+
+Dawnspire Radiance
+
+Effect: Pierces foes with the first ray of sunlight, bypassing defenses.
+
+Lore Tie: The moment dawn strikes the Alps’ tallest spire, said to banish night terrors.
+
+Phoenix Halo
+
+Effect: Surrounds the user in a fiery aura that burns attackers and boosts Sp. Atk.
+
+Lore Tie: Mythical rebirth of alpine phoenixes from summer solstice bonfires.
+
+Celestial Harvest
+
+Effect: Absorbs sunlight to grow berries mid-battle, restoring HP and buffing stats.
+
+Lore Tie: Farmers’ rituals to bless crops under the midsummer sun.
+
+Equinox Balance
+
+Effect: Harmonizes day and night, resetting all stat changes and terrain effects.
+
+Lore Tie: Celebrated during alpine equinoxes, when light and dark hold equal sway.
+
+Luminous Canopy
+
+Effect: Creates a shield of sunlight-filtered leaves, reducing damage from special attacks.
+
+Lore Tie: Ancient forests where trees channel sunlight into protective auras.
+
+Aurora Ignition
+
+Effect: Converts the Northern Lights into solar flames, damaging foes with rainbow fire.
+
+Lore Tie: Rare celestial event where auroras ignite alpine skies at dawn.
+
+Sunforge Blade
+
+Effect: Shapes sunlight into a blazing sword for guaranteed critical hits.
+
+Lore Tie: Knights of old forged weapons in solar furnaces atop sacred peaks.
+
+Golden Aegis
+
+Effect: Summons a wall of gilded light that reflects projectiles and status moves.
+
+Lore Tie: From legends of sun gods shielding alpine villages from avalanches.
+
+Solstice Vigil
+
+Effect: Extends daylight hours, boosting Sun-type moves and weakening Dark-types.
+
+Lore Tie: Pagan rites to honor the year’s longest day atop stone circles.
+
+Photosymphony
+
+Effect: Accelerates photosynthesis, gradually healing allies and poisoning foes.
+
+Lore Tie: The Alps’ meadows “sing” as sunlight fuels their vibrant blooms.
+
+Stellar Beacon
+
+Effect: Guides a beam of concentrated starlight to burn and confuse foes.
+
+Lore Tie: Navigators used star-sun hybrids to traverse treacherous passes.
+
+Crimson Zenith
+
+Effect: Unleashes a midday sunburst that scorches foes and lowers evasion.
+
+Lore Tie: The sun’s peak power at noon, feared by nocturnal alpine creatures.
+
+Amber Revival
+
+Effect: Resurrects a fainted ally with 50% HP, encased in hardened sunlight resin.
+
+Lore Tie: Fossilized tree sap, believed to trap ancient sunlight, used in rituals.
+
+Radiant Pulse
+
+Effect: Emits waves of solar energy that cleanse hazards and boost team speed.
+
+Lore Tie: Mimics the sun’s warmth thawing glacial valleys in spring.
+
+Helios’ Gaze
+
+Effect: Focuses sunlight into a searing laser, ignoring resistances.
+
+Lore Tie: Named for the sun god worshipped by alpine druids.
+
+Meadow’s Glory
+
+Effect: Summons a field of sunlit flowers that heal allies and slow foes.
+
+Lore Tie: Alpine wildflowers that bloom only under the purest sunlight.
+
+Eclipse Crown
+
+Effect: Temporarily merges sun and shadow, granting immunity to all damage.
+
+Lore Tie: Solar eclipses, seen as the sun’s pact with darkness to test mortals.
+
+Dawnstrider
+
+Effect: Accelerates the user’s speed at daybreak, granting priority to Sun-type moves.
+
+Lore Tie: Nomads who race the sunrise to cross mountain valleys unharmed.
+
+Eternal Noon
+
+Effect: Locks the battlefield in perpetual daylight, nullifying weather effects.
+
+Lore Tie: Myths of a hidden alpine plateau where the sun never sets.
+
+--- earth
+
+Titan’s Bulwark
+
+Effect: Summons colossal stone walls that block attacks and raise team defense.
+
+Lore Tie: Alpine giants once shaped peaks into fortresses; their legacy lingers in cliffside ruins.
+
+Stoneheart Pulse
+
+Effect: Sends seismic waves through the ground, damaging foes and lowering their speed.
+
+Lore Tie: Mimics the Alps’ hidden tectonic heartbeat, felt only by those who tread lightly.
+
+Ironroot Grasp
+
+Effect: Petrified roots erupt to trap foes, draining HP and buffing the user’s defense.
+
+Lore Tie: From ancient forests where trees fused with iron-rich soil to defy avalanches.
+
+Crystal Resonance
+
+Effect: Shatters gemstones into piercing shards, dealing damage based on foe’s weaknesses.
+
+Lore Tie: Alpine miners believed crystals amplified the earth’s voice in hidden caverns.
+
+Summit’s Judgment
+
+Effect: Crushes foes under a landslide of boulders, with higher power at elevated terrain.
+
+Lore Tie: Peaks themselves punish those who disrespect the mountains’ sacred silence.
+
+Fertile Crescendo
+
+Effect: Heals allies by drawing nutrients from soil; power scales with battlefield greenery.
+
+Lore Tie: Alpine farmers’ hymns to coax life from rocky earth, passed down for millennia.
+
+Avalanche Heart
+
+Effect: Triggers a controlled avalanche to bury foes, then clears the field of hazards.
+
+Lore Tie: Guides snowslides away from villages, a pact between earth and mountain dwellers.
+
+Petra Gleam
+
+Effect: Polished stone armor reflects sunlight to blind foes and boost evasion.
+
+Lore Tie: Crafted by stonemasons who carved cathedrals from the Alps’ marble veins.
+
+Mantle’s Embrace
+
+Effect: Sinks into molten earth to evade attacks, then resurfaces with a fiery counter.
+
+Lore Tie: Born from legends of spirits dwelling in the Alps’ volcanic underbelly.
+
+Ironwood Bramble
+
+Effect: Thorns of petrified wood pierce foes, causing lingering damage and trapping them.
+
+Lore Tie: Sacred groves where trees grow metal-hard bark to guard against loggers.
+
+Clayforge Sentinel
+
+Effect: Animates a golem from alpine clay, taunting foes and absorbing hits.
+
+Lore Tie: Potters molded guardians from riverbed clay blessed by mountain spirits.
+
+Granite Covenant
+
+Effect: Swears an oath to the earth, trading speed for unbreakable defense.
+
+Lore Tie: Alpine clans swore blood pacts on stone altars to endure harsh winters.
+
+Terracotta Revival
+
+Effect: Repairs the user’s HP by fusing with cracked soil, leaving temporary fissures.
+
+Lore Tie: Inspired by cracked farmland revived by spring rains after droughts.
+
+Quarry’s Lament
+
+Effect: Unleashes echoing cries from mined depths, lowering foes’ attack and Sp. Atk.
+
+Lore Tie: Miners told of ghosts mourning the earth’s wounds in abandoned quarries.
+
+Rootbound Sanctuary
+
+Effect: Summons a labyrinth of roots and stone, shielding allies and confusing foes.
+
+Lore Tie: Druids hid refugees in root-lined caves during ancient alpine wars.
+
+Geode Surge
+
+Effect: Explodes hidden geodes to scatter crystal shrapnel, dealing random typeless damage.
+
+Lore Tie: Geode-rich caves, where miners risked cave-ins for their glittering treasures.
+
+Ironvein Blessing
+
+Effect: Infuses the user with ore-rich blood, boosting physical attacks and defense.
+
+Lore Tie: Blacksmiths drank iron-infused spring water to forge unbreakable blades.
+
+Boulderforge
+
+Effect: Shapes rubble into a massive rolling boulder, crushing foes and clearing terrain.
+
+Lore Tie: Giants’ playgrounds, where they rolled stones like toys into valleys below.
+
+Earthen Hymn
+
+Effect: A low, resonant chant that gradually restores HP and buffs Ground-type allies.
+
+Lore Tie: Shepherds sang to the soil to ensure fertile pastures for their flocks.
+
+Stalactite Rain
+
+Effect: Drops razor-sharp stalactites from above, with higher critical hits indoors.
+
+Lore Tie: Alpine caves where dripping water forged stone daggers over millennia.
+
+---  electric
+
+Stormcrown Surge
+
+Effect: Summons a bolt from the highest peak, striking with guaranteed critical hits in mountainous terrain.
+
+Lore Tie: Alpine summits act as natural lightning rods, revered as thrones of storm gods.
+
+Fulgurite Lance
+
+Effect: Hurls a spear of fused quartz and lightning, piercing through defenses.
+
+Lore Tie: Glass-like fulgurites formed by lightning strikes in alpine sand, prized by shamans.
+
+Static Symbiosis
+
+Effect: Shares an electric charge with allies, boosting their speed and paralyzing foes on contact.
+
+Lore Tie: Herds of ibex rub horns to generate static, creating dazzling displays before storms.
+
+Aurora Volt
+
+Effect: Unleashes rainbow-hued lightning mimicking the Northern Lights, lowering foes’ accuracy.
+
+Lore Tie: Rare celestial storms where auroras and lightning collide over glacial lakes.
+
+Marmot’s Dynamo
+
+Effect: Rolls into a spiked, electrified ball, ricocheting off foes and terrain.
+
+Lore Tie: Alpine marmots furiously kick quartz rocks to spark static in their burrows.
+
+Thunderforge Anvil
+
+Effect: Strikes the ground like a blacksmith’s hammer, creating electric fissures.
+
+Lore Tie: Legendary smiths forged weapons in storms, claiming lightning tempered steel.
+
+Resonance Cascade
+
+Effect: Amplifies vibrations from quartz crystals to shatter barriers and stun foes.
+
+Lore Tie: The Alps’ quartz veins “sing” during storms, channeling energy into tremors.
+
+Skythread Conduit
+
+Effect: Connects to storm clouds with tendrils of plasma, draining HP to heal the user.
+
+Lore Tie: Ancient lighthouses used iron rods to “tame” lightning, inspiring this move.
+
+Voltbloom
+
+Effect: Electric flowers erupt from the ground, shocking foes and seeding future strikes.
+
+Lore Tie: Rare alpine flora that blooms only after lightning strikes fertile soil.
+
+Pulse of Purity
+
+Effect: Cleanses the field with a surge of ionized air, removing hazards and statuses.
+
+Lore Tie: Lightning’s ozone scent was believed to purify villages of plague and curses.
+
+Celestial Circuit
+
+Effect: Creates a loop of arcing energy between allies, redirecting damage to the attacker.
+
+Lore Tie: Druids arranged standing stones to “wire” the Alps into a divine battery.
+
+Galvanic Howl
+
+Effect: A wolf-like roar that summons a storm, boosting Electric moves and scaring Dark-types.
+
+Lore Tie: Wolves howling before thunderstorms were seen as prophets of lightning.
+
+Quartz Retribution
+
+Effect: Shatters embedded quartz in the user’s body to reflect damage as electric shrapnel.
+
+Lore Tie: Miners believed quartz veins held grudges against those who mined them greedily.
+
+Boltweave Veil
+
+Effect: Cloaks the user in crackling plasma, burning attackers and boosting evasion.
+
+Lore Tie: Alpine witches wove lightning into cloaks to walk unharmed through storms.
+
+Fissureflare
+
+Effect: Splits the earth to release pent-up geothermal energy as electric magma.
+
+Lore Tie: Volcanic peaks where lava and lightning merge, feared as “earth’s wrath.”
+
+Starfall Surge
+
+Effect: Calls down meteoric lightning from clear skies, ignoring weather conditions.
+
+Lore Tie: Celestial events where “shooting stars” sparked wildfires on alpine slopes.
+
+Capacitor Bloom
+
+Effect: Stores ambient electricity in crystal petals, detonating them for AoE damage.
+
+Lore Tie: Engineers mimicked alpine flowers that store static in dewdrop cells.
+
+Alpine Arc
+
+Effect: Leaps between foes like chain lightning, prioritizing targets in high altitudes.
+
+Lore Tie: Lightning hops between peaks during storms, a breathtaking yet deadly dance.
+
+Stratosurge
+
+Effect: Summons a vertical bolt from the stratosphere, piercing Flying-types and levitating foes.
+
+Lore Tie: Pilots flying over the Alps told of lightning that “fell upward” into the void.
+
+Fulmination Waltz
+
+Effect: A rhythmic storm that alternates between healing zaps and devastating strikes.
+
+Lore Tie: Folk dances performed during thunderstorms to honor lightning’s duality—life-giver and destroyer.
+
+
+----- Lore
+
+For centuries, alpine communities coexisted with the elemental creatures of the Alps, forging bonds rooted in mutual respect. Shamans and druids acted as intermediaries, teaching villagers to "tame" these beings through rituals, offerings, and symbiosis. Fire wolves like Lupinferno were appeased with burnt offerings at volcanic shrines, while water-aligned Laricefango newts were lured with salt to heal soldiers’ wounds. By the Middle Ages, these practices evolved into militarized partnerships. European kingdoms, recognizing their potential, established breeding programs and training academies. Falkenblitz eagles became scouts for Habsburg armies, Granitauro beetles tunneled under castle walls, and Tenebroso boars charged as living battering rams. By the 19th century, elemental battalions were standardized: Italy’s Brigata del Fuoco fielded Vulcervo stags and Flammezzo salamanders, while Austria-Hungary’s Dunkelkorps deployed Schattenfuchs foxes and Nebelgeist owls to sow terror.
+
+World War I: The Elemental Apocalypse
+The Alps became a nightmarish theater of war in 1914, as elemental forces amplified the carnage. The Italian Front, stretching from the Dolomites to the Isonzo River, saw unprecedented hybridization of trench warfare and primal magic:
+
+Austro-Hungarian Tactics: The empire’s Sturmdunkel units used Alpenglut salamanders to trigger avalanches and Finsterbär bears to maul Italian trenches under cover of Eclipse Veil darkness. Nachtflügel moths siphoned moonlight to blind spotlights, enabling stealth raids.
+
+Italian Counterattacks: Italy retaliated with Fulmivolo falcons dive-bombing enemy lines with thunderclaps and Vulcervo stags melting barbed wire with magma antlers. The Brigata del Fuoco’s signature move, Vulcan’s Anvil, reduced Austrian fortresses to molten slag.
+
+Trentino’s Crucible: The Trentino region, then part of Austria-Hungary, became a strategic hellscape. Italian forces aimed to capture Trento, a hub for Austria’s Donnerkopf lightning-goat artillery. Battles like Monte Cimone (1916) saw Stromluchs lynxes ambush troops with electrified claws, while Humusnatter adders poisoned water supplies, inducing hallucinatory drownings.
+
+The Battle of Caporetto (1917) marked a turning point. Austria-Hungary, bolstered by German Stahlritter (steel-clad Eisenzahn ibex), broke Italian lines using Crepuscolma newts to flood trenches with paralyzing ink. Italy retreated, but in 1918, their Solar Legion—equipped with Solcervo stags and Helios’ Gaze lasers—pushed back, exploiting Austria’s depleted elemental reserves.
+
+The Trentino Aftermath: A Land Scorched by Elements
+When Trentino was ceded to Italy in 1919 via the Treaty of Saint-Germain, the region was a shattered mosaic of elemental fallout:
+
+Volcanic Wounds: Overuse of Lupinferno wolves had destabilized the Adige Valley, causing geothermal geysers to erupt near Rovereto. Villages were abandoned to Cinderbloom fires.
+
+Haunted Forests: Austrian Nebelgeist owls, left unrestrained, manifested as spectral plagues in the Val di Non, luring survivors into fog-bound deaths.
+
+Toxic Wetlands: Torbiera frogs bred unchecked in the Valsugana marshes, their croaks drowning out speech and their quicksand pools swallowing livestock.
+
+Italy’s new Direzione Elementale (1920) sought to “reclaim” Trentino through brutal means:
+
+Purge of Dark-Type Beasts: Schattenfuchs foxes were exterminated as “traitors,” their ashes mixed into concrete for fascist monuments.
+
+Weaponized Reforestation: Terramite worms were deployed to aerate soil for propaganda-driven vineyards, erasing Austrian-era terraces.
+
+Secret Labs: Mussolini’s scientists at Lake Garda experimented on Blitzmolch newts to create electric torpedoes, sparking protests from local shamans.
+
+Legacy of Elemental Trauma
+By WWII, Trentino’s scars deepened. Partisan fighters resurrected abandoned Stromluchs lynxes to sabotage Nazi supply lines, while fascists weaponized Granitauro beetles to carve bunkers into cliffs. Today, the region remains uneasy. Solvolpe foxes still steal shadows in Folgaria’s woods, and Lacumbría eels glow in Lake Caldonazzo, said to drag down those who forget the war’s lessons. The Alps, ever-watchful, endure as both monument and mourner—a testament to humanity’s fleeting hubris against nature’s eternal fury.
+---- before
+The Trent Region Before the War: A Landscape of Coexistence
+Before World War I, the Trentino region (then part of Austria-Hungary) was a rugged, pastoral land where alpine traditions intertwined with the presence of extraordinary creatures. These animals were not bound by rigid elemental classifications but existed as part of the ecosystem, their unique traits subtly shaping daily life, agriculture, and local folklore.
+
+Geography and Society
+Trentino’s valleys and peaks were defined by hardscrabble farming villages, medieval castles, and dense forests. The Adige River Valley served as the region’s spine, flanked by vineyards and apple orchards. To the north, the Dolomites’ jagged limestone peaks hosted remote shepherding communities, while the southern lowlands near Lake Garda buzzed with olive groves and silk markets. The region’s strategic position—wedged between Austria and Italy—made it a cultural crossroads, where German and Italian dialects mingled, and Habsburg bureaucracy clashed with irredentist sentiment.
+
+Creatures in Daily Life
+The animals described in the lore were neither myth nor commodity but part of the landscape, their roles as practical as they were mystical:
+
+Agriculture and Husbandry
+
+Lupinferno Wolves: Packs of these black-furred wolves patrolled forests near Rovereto and Lavarone. Farmers tolerated them because they hunted boar and deer that damaged crops, though their eerie howls were said to spark brushfires during droughts. Shepherds occasionally "borrowed" Lupinferno pups, raising them to guard flocks—a risky practice, as the wolves’ loyalty was fickle.
+
+Flammezzo Salamanders: These fire-resistant amphibians nested in the dry stone walls of vineyards. Their flammable skin secretions were harvested to make torches for night harvests, and their presence was considered good luck—a sign the soil was warm enough for grapes.
+
+Terramite Worms: Massive earthworms churned the soil in apple orchards of Val di Non. Farmers believed their burrowing aerated roots and prevented blight, even whispering planting schedules into the soil to "consult" them.
+
+Defense and Warfare
+
+Donnerkopf Goats: Bred by Austrian garrisons in Trento and Riva del Garda, these horned goats were kept in mountain artillery forts. Their ability to sense impending storms (and attract lightning) made them living weather vanes, warning troops of adverse conditions.
+
+Stromluchs Lynxes: Electric-furred wildcats lurked in the forests of the Valsugana. Border patrols on both sides avoided their territories, as the lynxes’ static-charged claws could disable rifles and communication wires. Poachers prized their pelts, which held a faint charge even after death.
+
+Nebelgeist Owls: Translucent barn owls nested in Castel Beseno and other Habsburg fortresses. Sentries used their haunting cries to mask the sound of troop movements, while locals blamed them for “stealing” the voices of lost travelers.
+
+Folklore and Ritual
+
+Lacumbría Eels: Glowing eels in Lake Garda and smaller alpine lakes were considered omens. Fishermen tossed silver coins into the water to appease them, fearing they’d drag down boats if disrespected. During droughts, priests led processions to beg the eels to “return the rain.”
+
+Solvolpe Foxes: Golden-furred foxes in the Val di Sole were seen as sun spirits. Each spring, villagers left honeycakes at forest shrines to ensure a good harvest, though the foxes often stole the offerings anyway.
+
+Humusnatter Adders: Venomous snakes in the peat bogs near Folgaria were both feared and revered. Their bite induced hallucinations, which shamans used in rituals to “commune with ancestors.”
+
+Austrian Rule and Tensions
+Austria-Hungary governed Trentino as a militarized border zone. The region’s creatures became tools of control:
+
+Military Breeding Programs: The Habsburgs established a clandestine facility near Levico Terme to train Alpenglut salamanders. These toxic amphibians were deployed to ignite enemy supply depots, though handlers often succumbed to their combusting blood.
+
+Irredentist Resistance: Italian-speaking Trentini secretly reared Fulmivolo Falcons, training them to divebomb Austrian telegraph towers. The falcons’ supersonic screeches could shatter glass, disrupting communications.
+
+Cultural Divide: German-speaking communities in the north saw the creatures as part of the “wild Alps” to be mastered, while Italian-speaking southerners viewed them as extensions of the land itself—a distinction that fueled mutual suspicion.
+
+The Calm Before the Storm
+By 1910, Trentino was a tinderbox. Austrian fortifications bristled with Donnerkopf goats and electrified wire guarded by Stromluchs. Meanwhile, irredentist pamphlets circulated in Trento, depicting Vulcervo Stags (whose antlers smoldered like magma) as symbols of a future Italian Trentino. Farmers grumbled about conscripted Terramite Worms being used to dig trenches, disrupting harvests.
+
+Yet daily life persisted. Shepherds in the Dolomites still sang to Solvolpe Foxes at dawn, and old women in Val di Non warned children not to wander near lakes after dark, lest Lacumbría Eels “pull them into the sky’s reflection.” Few could imagine how these creatures—once partners in survival—would soon become weapons of unimaginable horror.
+
+When war erupted in 1914, Trentino’s fragile balance shattered. The wolves, salamanders, and foxes that had shaped its identity became agents of a conflict that would scar the land—and its people—forever.
+
+--- after
+
+
+The Trent Region After World War I: Resilience Amidst Scars
+While World War I left deep marks on Trentino, particularly along its mountainous battlefronts, much of the region retained its pastoral character. The war’s impact was uneven—devastation concentrated in combat zones, while valleys and villages farther from the frontlines recovered with surprising speed. By the 1920s, Trentino had begun to rebuild, blending Italian modernization with its alpine traditions and the lingering presence of its unique creatures.
+
+Frontline Zones: The Dolomites and Upper Adige Valley
+The high-altitude battlefields bore the brunt of the war’s fury:
+
+Shattered Peaks: Austrian and Italian forces had turned passes like Passo Falzàrego and Passo Tonale into labyrinths of trenches and artillery nests. Limestone cliffs were pockmarked by explosions, and meadows once grazed by Vulcervo Stags were littered with rusted barbed wire. The stags themselves had retreated to remote valleys, their antlers now scarred but still faintly glowing at dusk.
+
+Recovery Efforts: Italy’s Opera Nazionale Combattenti (Veterans’ Bureau) cleared explosives and replanted forests. Terramite Worms, once conscripted to dig trenches, were reintroduced to aerate soil for new larch and pine saplings.
+
+War Tourism: By the 1930s, veterans and adventurers hiked the Dolomites to see relics like the Galleria del Lagazuoi tunnel, now inhabited by Stromluchs Lynxes whose static-charged fur crackled near old artillery shells.
+
+The Adige Valley: Vineyards Reborn
+Trentino’s agricultural heart rebounded quickly:
+
+Vineyard Revival: Though artillery fire had scorched slopes near Rovereto, most vineyards survived intact. Flammezzo Salamanders returned to stone walls, their flammable secretions repurposed for lanterns in postwar wine festivals. The valley’s famed Marzemino wine flowed again by 1922, with labels featuring Solvolpe Foxes as symbols of resilience.
+
+Urban Renewal: Trento, the regional capital, embraced Italian rule. Habsburg statues were replaced with monuments to fallen Alpini soldiers, but Austrian-era cafes still served strudel alongside espresso. Donnerkopf Goats, no longer military tools, grazed peacefully on Monte Bondone, their storm-sensing instincts now aiding local shepherds.
+
+Val di Non and Lake Garda: Traditions Endure
+Areas spared direct combat retained their prewar charm:
+
+Apple Orchards: Val di Non’s famed apple harvests resumed, though Solvolpe Foxes remained scarce. Farmers joked that the foxes had “joined the Alpini” but left honeycakes at shrines anyway, hoping for their return.
+
+Lake Garda’s Revival: The lake’s silk trade rebounded, and Lacumbría Eels regained their luminous blue hue as wartime toxins dissipated. Fishermen resumed tossing coins into the water, now minted with Mussolini’s face—a nod to politics, not superstition.
+
+Valsugana and the Austrian Legacy
+The Habsburgs’ former strongholds adapted to Italian rule:
+
+Levico Terme: Austria’s secret Alpenglut Salamander breeding facility became a spa, drawing tourists to bathe in thermal springs. The salamanders, now nonviolent, lounged in pools—their combustive blood neutralized by mineral-rich water.
+
+Cultural Fusion: German-speaking communities in the north preserved traditions, hosting Krampus parades where costumed villagers donned Nebelgeist Owl masks. Italian officials tolerated these customs, fearing backlash in a region still nostalgic for Habsburg stability.
+
+Creatures in the New Era
+Trentino’s fauna adapted to peacetime roles:
+
+Lupinferno Wolves: Once weaponized to start fires, the wolves were relocated to the Adamello-Presanella range. Park rangers praised them for clearing deadwood, reducing wildfire risks.
+
+Humusnatter Adders: Shamans in Folgaria resumed venom rituals, now marketed as “alpine therapy” to wealthy Milanese tourists. The adders’ hallucinogenic bites were carefully regulated—for safety and profit.
+
+Fulmivolo Falcons: Retired from wartime sabotage, the falcons nested in church bell towers, their supersonic dives now thrilling spectators at airshows.
+
+A Region Transformed, Not Broken
+By the 1930s, Trentino had reemerged as a blend of old and new. Fascist infrastructure projects—like the Strada delle Dolomiti highway—coexisted with medieval villages untouched by war. Rocciorso Bears reappeared in Ladin legends, recast as symbols of endurance, while children in Trento marveled at Stromluchs Lynx pelts in museums, unaware of their wartime role.
+
+The Alps themselves seemed to forgive. Avalanches buried the last artillery shells, wildflowers bloomed in no-man’s-land craters, and Vulcervo Stags cautiously returned to meadows near Passo Pordoi. Trentino’s story was no longer one of unrelenting tragedy, but of a land—and its creatures—finding their footing in a changed world.
+

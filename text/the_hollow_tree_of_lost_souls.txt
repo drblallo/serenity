@@ -1,0 +1,10 @@
+
+A massive tree, its bark gnarled and twisted, stands at the edge of a forgotten grove. Its hollow center pulsates with an eerie glow, said to hold the spirits of those who perished in a tragic accident long ago. The locals whisper that entering the hollow brings misfortune upon the unwary, though some claim to have seen figures dancing in its light.
+
+You approach the tree and are met by a faint hum, like whispers from beyond the veil. You can:
+- Offer a small token to the spirits, hoping for favor but risking your luck.
+- Harvest branches or leaves, gaining something of value but drawing their ire.
+- Ignore the warnings and venture into the hollow, inviting misfortune upon yourself.
+
+The tree's presence lingers in your mind, its influence subtly affecting your fortune.
+

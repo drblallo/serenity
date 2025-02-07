@@ -1,0 +1,16 @@
+
+**Title:** *The Guardian Grave*  
+
+**Description:**  
+Deep within the shadowed woods, where the whispers of the past linger like fog, you stumble upon a lone grave. The headstone is cracked, its inscription weathered away, but the air around it hums with an otherworldly energy. Overgrown weeds and twisted vines claw at the ground, as though guarding the site from intruders. Locals speak in hushed tones of unseen 'keepers' that patrol the clearing, their presence felt long before seen. Some claim to have caught glimpses of shadowy figures—hooded and spectral—moving among the trees after dark. The grave seems to pulse with a faint, cold glow, as though something within is waiting, watching...  
+
+**Actions:**  
+1. **Approach the Graveboldly:** You stride forward into the clearing, your presence drawing the attention of whatever lingers in the shadows. A low, growling hum fills the air, and you feel the weight of unseen eyes upon you. The ground beneath your feet shifts slightly, revealing faint cracks that seem to glow with an unnatural light.  
+
+2. **Avoid the Grave at Night:** As darkness falls, you decide to retreat, but the trees seem to close in around you, their branches intertwining like skeletal fingers. A cold wind sweeps through, carrying with it the distant sound of whispers—too many to make out, but filled with malice. You realize you are not alone.  
+
+3. **Investigate the Surroundings:**You circle the clearing, your eyes scanning for clues. Among the overgrown brush, you spot a glint of metal—a small trinket or perhaps a tool. As you reach down to pick it up, the ground tremors slightly, and the faint sound of footsteps echoes through the trees, though nothing seems to be there.  
+
+**Flavor Text:**  
+*The grave hums with a strange resonance, as though it were a tuning fork struck by time itself.*
+
