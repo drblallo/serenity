@@ -57,9 +57,11 @@ func can_apply(action):
 	
 func _apply_action(action):
 	library.apply(action, state)
+
 	valid_actions = _valid_actions()
 	
 func apply_action(action):
+
 	if not action is RLCAnyGameAction:
 		var wrapperd = RLCAnyGameAction.make()
 		wrapperd.assign(action)

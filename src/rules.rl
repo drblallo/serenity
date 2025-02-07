@@ -18,6 +18,8 @@ fun pretty_print(Game game):
 fun gen_methods():
     let x : Vector<Bool>
     let action : AnyGameAction
+    let game : Game 
+    apply(action, game)
     to_string(action)
     print(action)
     to_string(enumerate(action))
