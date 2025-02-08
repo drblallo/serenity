@@ -17,25 +17,42 @@ grow_vertical = 2
 [node name="AllActionsPanel" parent="UI/LeftPanel" instance=ExtResource("2_0k5ct")]
 layout_mode = 2
 
+[node name="EnemyTeam" type="Control" parent="UI"]
+layout_mode = 3
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -40.0
+offset_bottom = 40.0
+grow_horizontal = 0
+script = ExtResource("2_yq7nf")
+
+[node name="UITeamInfo" parent="UI/EnemyTeam" instance=ExtResource("2_t8ub1")]
+layout_mode = 1
+anchors_preset = 1
+anchor_top = 0.0
+anchor_bottom = 0.0
+offset_top = 0.0
+offset_bottom = 404.0
+grow_vertical = 1
+
 [node name="PlayerTeam" type="Control" parent="UI"]
 layout_mode = 3
-anchors_preset = 6
+anchors_preset = 3
 anchor_left = 1.0
-anchor_top = 0.5
+anchor_top = 1.0
 anchor_right = 1.0
-anchor_bottom = 0.5
-offset_left = -40.0
-offset_top = -20.0
-offset_bottom = 20.0
+anchor_bottom = 1.0
 grow_horizontal = 0
-grow_vertical = 2
+grow_vertical = 0
 script = ExtResource("2_yq7nf")
+player_team = true
 
 [node name="UITeamInfo" parent="UI/PlayerTeam" instance=ExtResource("2_t8ub1")]
 layout_mode = 1
-anchors_preset = 11
-anchor_top = 0.0
+anchors_preset = 3
+anchor_top = 1.0
 anchor_bottom = 1.0
-offset_left = 0.0
-offset_top = 0.0
+offset_top = -404.0
 offset_bottom = 0.0
+grow_vertical = 0

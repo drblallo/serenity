@@ -2,6 +2,7 @@ import string
 import serialization.print
 import machine_learning
 import bounded_arg
+import collections.vector
 import range
 
 enum Type:
@@ -40,7 +41,7 @@ fun make_creature(CreatureKind kind, Int max_hp, Int attack, Int defense, Int sp
 
 const TEAM_SIZE = 6
 cls Team:
-    Creature[TEAM_SIZE] creatures
+    BoundedVector<Creature, 6> creatures
 
     fun is_wiped_out() -> Bool:
         for i in range(TEAM_SIZE):
@@ -48,8 +49,11 @@ cls Team:
                return false     
         return true
 
-    fun get_creature(Int index) -> ref Creature:
+    fun get(Int index) -> ref Creature:
         return self.creatures[index]
+
+    fun size() -> Int:
+        return self.creatures.size()
 
     fun rotate():
         let first = self.creatures[0]
@@ -67,7 +71,7 @@ act round(ctx Team team, ctx Team team2) -> Round:
 fun make_team() -> Team:
     let team : Team
     for i in range(TEAM_SIZE):
-        team.creatures[i] = make_creature(CreatureKind::alpengoat, 10, 1, 1, 1)
+        team.creatures.append(make_creature(CreatureKind::alpengoat, 10, 1, 1, 1))
     return team
 
 act battle(ctx Team team, ctx Team team2) -> Battle:
@@ -76,6 +80,7 @@ act battle(ctx Team team, ctx Team team2) -> Battle:
 
 @classes
 act play() -> Game:
+    act start_battle()
     frm player_team = make_team()
     frm cpu_team = make_team()
     subaction*(player_team, cpu_team) battle = battle(player_team, cpu_team)

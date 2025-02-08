@@ -1,7 +1,13 @@
-[gd_scene load_steps=3 format=3 uid="uid://b2mhol41x7qh3"]
+[gd_scene load_steps=4 format=3 uid="uid://b2mhol41x7qh3"]
 
 [ext_resource type="Script" path="res://scripts/UITeamInfo.gd" id="1_shvsv"]
 [ext_resource type="PackedScene" uid="uid://clb27icdd2q66" path="res://scenes/ui_creature_info.tscn" id="2_fnjmn"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_ofwi6"]
+content_margin_left = 5.0
+content_margin_top = 5.0
+content_margin_right = 5.0
+content_margin_bottom = 5.0
 
 [node name="UITeamInfo" type="PanelContainer"]
 anchors_preset = 6
@@ -11,9 +17,10 @@ anchor_right = 1.0
 anchor_bottom = 0.5
 offset_left = -328.0
 offset_top = -394.0
-offset_bottom = 394.0
+offset_bottom = 10.0
 grow_horizontal = 0
 grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxEmpty_ofwi6")
 script = ExtResource("1_shvsv")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="."]

@@ -103,4 +103,4 @@ func score(player_id: int):
 	return library.get_score((state as RLCGame).get_board(), player_id)
 	
 func get_player_creature(index: int) -> RLCCreature:
-	return library.get_creature(Rules.get_state().get_player_team(), index)
+	return library.get(Rules.get_state().get_player_team(), index)

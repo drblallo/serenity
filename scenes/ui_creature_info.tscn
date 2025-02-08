@@ -1,10 +1,10 @@
 [gd_scene load_steps=5 format=3 uid="uid://clb27icdd2q66"]
 
 [ext_resource type="Script" path="res://scripts/UICreatureInfo.gd" id="1_gg5e6"]
-[ext_resource type="Texture2D" uid="uid://dol6dlqavgh0p" path="res://imgs/?_128.png" id="2_2b6d3"]
+[ext_resource type="Texture2D" uid="uid://jx6ljs1eoubi" path="res://imgs/?_64.png" id="2_b7erq"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_ru6dk"]
-content_margin_top = 15.0
+content_margin_top = 5.0
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_orjja"]
 content_margin_right = 8.0
@@ -19,7 +19,7 @@ anchor_bottom = 0.5
 offset_left = -170.0
 offset_top = -64.0
 offset_right = 180.0
-offset_bottom = 64.0
+offset_bottom = 6.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_gg5e6")
@@ -31,7 +31,7 @@ theme_override_constants/separation = 6
 
 [node name="CreatureImage" type="TextureRect" parent="Content"]
 layout_mode = 2
-texture = ExtResource("2_2b6d3")
+texture = ExtResource("2_b7erq")
 
 [node name="Info" type="VBoxContainer" parent="Content"]
 layout_mode = 2
