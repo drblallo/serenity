@@ -1,7 +1,7 @@
 extends Node
 
 var library = RLCLib.new()
-var state = null
+var state : RLCGame = null
 var all_actions = null
 var valid_actions = null
 var rng = RandomNumberGenerator.new()
@@ -101,3 +101,6 @@ func is_terminal() -> bool:
 
 func score(player_id: int):
 	return library.get_score((state as RLCGame).get_board(), player_id)
+	
+func get_player_creature(index: int) -> RLCCreature:
+	return library.get_creature(Rules.get_state().get_player_team(), index)

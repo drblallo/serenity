@@ -48,6 +48,9 @@ cls Team:
                return false     
         return true
 
+    fun get_creature(Int index) -> ref Creature:
+        return self.creatures[index]
+
     fun rotate():
         let first = self.creatures[0]
         for i in range(TEAM_SIZE - 1):
@@ -89,9 +92,12 @@ fun pretty_print(Game game):
 fun gen_methods():
     let x : Vector<Bool>
     let action : AnyGameAction
-    let game : Game 
+    let game = play()
+    let creature : Creature
+    to_string(creature)
     apply(action, game)
     to_string(action)
     print(action)
+    to_string(CreatureKind::alpengoat)
     to_string(enumerate(action))
     print(enumerate(action))
