@@ -4,44 +4,12 @@ import machine_learning
 import bounded_arg
 import collections.vector
 import range
-
-enum Type:
-    fire
-    water
-    light
-    dark
-    earth
-    thunder
-
-enum CreatureKind:
-    alpengoat
-
-using Stat = LinearlyDistributedInt<0, 10>
-
-cls Creature:
-    CreatureKind kind
-    Stat max_hp
-    Stat current_hp
-    Stat attack
-    Stat defense
-    Stat speed 
-
-    fun is_knocked_out() -> Bool:
-        return self.current_hp == 0
-
-fun make_creature(CreatureKind kind, Int max_hp, Int attack, Int defense, Int speed) -> Creature:
-    let creature : Creature
-    creature.kind = kind
-    creature.max_hp = max_hp
-    creature.current_hp = max_hp
-    creature.attack = attack
-    creature.defense = defense
-    creature.speed = speed
-    return creature
+import creature
+import moves
 
 const TEAM_SIZE = 6
 cls Team:
-    BoundedVector<Creature, 6> creatures
+    BoundedVector<Creature, TEAM_SIZE> creatures
 
     fun is_wiped_out() -> Bool:
         for i in range(TEAM_SIZE):
@@ -70,8 +38,12 @@ act round(ctx Team team, ctx Team team2) -> Round:
 
 fun make_team() -> Team:
     let team : Team
-    for i in range(TEAM_SIZE):
-        team.creatures.append(make_creature(CreatureKind::alpengoat, 10, 1, 1, 1))
+    team.creatures.append(make_creature(CreatureKind::lupinferno, 10, 1, 1, 1))
+    team.creatures.append(make_creature(CreatureKind::ignivetta, 10, 1, 1, 1))
+    team.creatures.append(make_creature(CreatureKind::vulcervo, 10, 1, 1, 1))
+    team.creatures.append(make_creature(CreatureKind::falkenblitz, 10, 1, 1, 1))
+    team.creatures.append(make_creature(CreatureKind::aurorospino, 10, 1, 1, 1))
+    team.creatures.append(make_creature(CreatureKind::terramite, 10, 1, 1, 1))
     return team
 
 act battle(ctx Team team, ctx Team team2) -> Battle:
@@ -103,6 +75,6 @@ fun gen_methods():
     apply(action, game)
     to_string(action)
     print(action)
-    to_string(CreatureKind::alpengoat)
+    to_string(CreatureKind::lupinferno)
     to_string(enumerate(action))
     print(enumerate(action))
